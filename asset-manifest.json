@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-router/static/css/main.5c98e1b9.css",
-    "main.js": "/react-router/static/js/main.78951a51.js",
+    "main.js": "/react-router/static/js/main.ac0e1f45.js",
     "static/media/img-main.jpg": "/react-router/static/media/img-main.1c80193cd07602fe145e.jpg",
     "static/media/red30-tech-logo.png": "/react-router/static/media/red30-tech-logo.b747ab1c3d6de6873782.png",
     "index.html": "/react-router/index.html",
     "main.5c98e1b9.css.map": "/react-router/static/css/main.5c98e1b9.css.map",
-    "main.78951a51.js.map": "/react-router/static/js/main.78951a51.js.map"
+    "main.ac0e1f45.js.map": "/react-router/static/js/main.ac0e1f45.js.map"
   },
   "entrypoints": [
     "static/css/main.5c98e1b9.css",
-    "static/js/main.78951a51.js"
+    "static/js/main.ac0e1f45.js"
   ]
 }
