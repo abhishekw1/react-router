@@ -13,7 +13,10 @@ function App() {
     <div className="app">
       <Header />
       <Routes>
-        <Route path="/" element={<Home title="Welcome to Red30 Tech" />} />
+        <Route
+          path="/react-router"
+          element={<Home title="Welcome to Red30 Tech" />}
+        />
         <Route path="about" element={<About />} />
         {/* Nested Routes */}
         <Route path="categories" element={<Categories />}>
