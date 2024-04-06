@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <header className="container">
-      <Link to="/">
+      <Link to="/react-router">
         <img
           className="logo"
           src={logo}
@@ -16,7 +16,7 @@ export default function Header() {
       </Link>
 
       <nav>
-        <NavLink to="/" className={getClass}>
+        <NavLink to="/react-router" className={getClass}>
           Home
         </NavLink>
         <NavLink to="/about" className={getClass}>

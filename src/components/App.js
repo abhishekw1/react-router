@@ -14,7 +14,7 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path="/react-router"
+          path="react-router"
           element={<Home title="Welcome to Red30 Tech" />}
         />
         <Route path="about" element={<About />} />
